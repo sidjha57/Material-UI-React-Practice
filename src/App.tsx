@@ -1,9 +1,10 @@
+import MuiTypography from "./components/MuiTypography"
 
 function App() {
 
   return (
     <div className="div">
-      New project
+      <MuiTypography />
     </div>
   )
 }
